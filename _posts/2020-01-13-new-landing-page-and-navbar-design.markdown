@@ -7,7 +7,7 @@ tags:
  - philosophy
 ---
 
-My sister designed a logo for [fallible.fun](https://www.fallible.fun/) and it looks awesome. It's featured on the new landing page:
+My sister designed a logo for [fallible.fun](https://www.fallible.fun/) and it looks awesome. It's featured on the new landing page:
 
 ![Image for post](/img/1_dbjv919VsjfdKPOkoe6isQ.png)
 
@@ -27,4 +27,4 @@ The text corresponding to each sidebar item appears when it corresponds to the c
 
 You can't see the cursor there because it's a screenshot, but it's hovering over the notifications item in the sidebar. The same text appears without hovering when you are on the notifications page.
 
-*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*
+*If you enjoyed this article, [follow me on Twitter](https://twitter.com/dchackethal) for more content like it.*

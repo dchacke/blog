@@ -7,7 +7,7 @@ tags:
  - coding
 ---
 
-I now have a domain for the discussion site: [www.fallible.fun](http://www.fallible.fun/). And it supports markdown, allowing the user to post formatted content such as this one:
+I now have a domain for the discussion site: [www.fallible.fun](http://www.fallible.fun/). And it supports markdown, allowing the user to post formatted content such as this one:
 
 ![Image for post](/img/1_35B2vYW3ZY-pEUCHc77MpA.png)
 
@@ -19,4 +19,4 @@ The font and the markdown look beautiful together. One thing I'm not happy with 
 
 So yeah... that's going to have to change somehow. Nor am I crazy about the domain.
 
-*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*
+*If you enjoyed this article, [follow me on Twitter](https://twitter.com/dchackethal) for more content like it.*

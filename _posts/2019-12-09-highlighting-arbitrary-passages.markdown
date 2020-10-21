@@ -17,4 +17,4 @@ This will be useful for cross referencing ideas.
 
 See for yourself: <https://web.archive.org/web/20191209181717/https://diskussion.herokuapp.com/#245...264>
 
-*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*
+*If you enjoyed this article, [follow me on Twitter](https://twitter.com/dchackethal) for more content like it.*

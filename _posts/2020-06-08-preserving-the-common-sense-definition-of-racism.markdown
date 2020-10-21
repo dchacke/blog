@@ -26,4 +26,4 @@ If the new definition keeps spreading and if associated ideas keep mutating free
 
 The common-sense definition applies to both individual and institutionalized discrimination based on skin color. The new definition applies almost exclusively to the institutionalized kind. The common-sense definition is universal and applies to everyone. The new definition is parochial and singles out white people. Which definition do you think is better?
 
-*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*
+*If you enjoyed this article, [follow me on Twitter](https://twitter.com/dchackethal) for more content like it.*
