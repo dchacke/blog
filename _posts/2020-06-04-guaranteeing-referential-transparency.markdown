@@ -6,7 +6,7 @@ tags:
  - coding
 ---
 
-![Glasses](https://miro.medium.com/max/1400/1*2RdfimeWaFU2lsGSgWVViw.jpeg)
+![Glasses](/img/1_2RdfimeWaFU2lsGSgWVViw.jpg)
 
 <p style="text-align: center;">
   <small>Photo by <a href="https://unsplash.com/@budhelisson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bud Helisson</a> on <a href="https://unsplash.com/s/photos/transparency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
