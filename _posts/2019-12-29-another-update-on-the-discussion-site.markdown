@@ -18,3 +18,5 @@ Note that in order to "save" the original post, one can *refute the refutation*
 (In real life, you wouldn't want to post unargued assertions such as the ones in the above previews. They're only meant to showcase the functionality.)
 
 So, if you post some things to the site in search of feedback/criticism, the site can now help you keep track of criticisms. The same goes for unanswered questions: when an answer to a question is refuted, the question is considered unanswered again.
+
+*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*

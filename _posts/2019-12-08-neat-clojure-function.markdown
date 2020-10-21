@@ -60,3 +60,5 @@ Or perhaps you can add a bunch of integers up that are hidden within vectors beh
 As you can see, `merge-with` is powerful. Neato, huh fellas?
 
 PS: Guess how often I miss OOP when writing Clojure.
+
+*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*

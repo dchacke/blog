@@ -407,3 +407,5 @@ The following is a transcript of the 11th episode of the podcast "Do Explain," w
 **C:** Alright, that's perfect. Thanks again for coming on. And hopefully, it won't be the last time.
 
 **D:** It was a great pleasure to be here.
+
+*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*

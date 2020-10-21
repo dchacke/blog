@@ -142,3 +142,5 @@ This is a completely different function. It would have to be the same function t
 That is the difference between a computer program and a recording of it, and that is why a recording of a person cannot *be* a person.
 
 **I am ignoring for the moment the moral problem that recording a person violates his privacy. So please, nobody do this once we can program people (i.e. build AGI).*
+
+*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*

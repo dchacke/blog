@@ -117,6 +117,8 @@ In any case --- because bad ideas like to hide in the shade of good intentions, 
 
 PS: By the way, how many of those who, only weeks ago, wanted to force businesses to close and people to stay home in response to the COVID-19 pandemic are now among those huddling up to protest, thereby further spreading the virus? And how many pressured us to stay home, only to drop that demand immediately in favor of encouraging everyone to go protest? Both things are about forcing people to do what's "right," so I expect a significant overlap between advocates of either one. Would they explain this contradiction by saying the evil of racism is greater than the evil of the virus, and, therefore, forceful efforts designed to address the former must, when in conflict, override those designed to address the latter?
 
+*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*
+
 <br>
 <br>
 

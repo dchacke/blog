@@ -71,3 +71,5 @@ Rich Hickey made a smart choice when he decided to treat commas as whitespace in
 One --- perhaps the only --- legitimate use case I see for commas is that of a thousands separator in numbers: 1,200,000 is easier to read than 1200000. Ruby uses underscores for this: 1_200_000. Meh, better than nothing.
 
 Commas and operators detract from programming languages. Use functions instead to eliminate ambiguity, to get rid of countless commas, and to make operators first-class citizens. I must have typed hundreds of thousands of unnecessary commas by now. Once you write in a language that doesn't have them, you won't look back.
+
+*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*

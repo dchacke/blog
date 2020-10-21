@@ -52,3 +52,5 @@ Note how the green is slightly darker in the middle, around the word "button", i
 The comments below first indicate their *range* --- the index of the first and last letter of the passage relative to the rest of the text. Then the quote is shown, indicated by a blue bar on the left, followed by the comment itself.
 
 Next up, I'd like to make it so that you can link from a passage to its corresponding comments, so you can always quickly see what people are saying about a particular passage, and vice versa, so that if you're scrolling through the comments, you can see what passage they belong to and the quote does not provide enough context.
+
+*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*

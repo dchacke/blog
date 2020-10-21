@@ -24,3 +24,5 @@ So what you're looking at here is the post with the large font in the middle. It
 You can try out that very page here: <https://web.archive.org/web/20191214002835/https://diskussion.herokuapp.com/#/posts/d3c2e998-6e24-45fc-95ea-e3c73fbdfdf0>
 
 Next up, I'll need to implement some navigation, as there is currently no easy way to get back to the home page. And then, the big one: actually persist these posts on a server.
+
+*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*

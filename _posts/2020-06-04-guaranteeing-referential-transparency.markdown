@@ -23,3 +23,5 @@ Having such functions seems to me a great step toward guaranteeing referential t
 To solve this problem, you may choose to have the transpiler throw an exception whenever a function you declare to be referentially transparent takes referentially intransparent functions as arguments.
 
 EDIT: This feature is now implemented as part of the [Berlin programming language](http://berlinlang.org/).
+
+*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*

@@ -18,3 +18,5 @@ The font and the markdown look beautiful together. One thing I'm not happy with 
 ![Image for post](/img/1_5vWyOL_UgCbmEIXA9uquew.png)
 
 So yeah... that's going to have to change somehow. Nor am I crazy about the domain.
+
+*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*

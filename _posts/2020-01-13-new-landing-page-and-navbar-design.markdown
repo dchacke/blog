@@ -26,3 +26,5 @@ The text corresponding to each sidebar item appears when it corresponds to the c
 ![Image for post](/img/1_WYoOyRyPft-OhWPlLclx-w.png)
 
 You can't see the cursor there because it's a screenshot, but it's hovering over the notifications item in the sidebar. The same text appears without hovering when you are on the notifications page.
+
+*If you enjoyed this article, *[*follow me on Twitter*](https://twitter.com/dchackethal)* for more content like it.*
