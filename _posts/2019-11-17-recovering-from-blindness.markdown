@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recovering from Blindness"
-date: 2019-11-17 20:27:01 -0700
+date: 2019-11-17
 tags:
  - philosophy
 ---

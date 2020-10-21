@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Discussions Revisited"
-date: 2019-12-08 20:35:04 -0700
+date: 2019-12-08
 tags:
  - philosophy
  - coding
