@@ -10,7 +10,7 @@ It is one thing when a young mind, after some twelve years of forced indoctrinat
 
 Here's a conversation I had recently with a young school teacher. Let's call her Beth.
 
-**Beth:** I was demon child in Kindergarten. Biting, hitting, spitting, calling kids buttholes...\
+**Beth:** I was a demon child in Kindergarten. Biting, hitting, spitting, calling kids buttholes...\
 **Dennis:** And now you're a teacher. The system defeated you :(\
 **B:** Haha now I get a taste of my own medicine!\
 **D:** I'm curious, why did you become a teacher?\
