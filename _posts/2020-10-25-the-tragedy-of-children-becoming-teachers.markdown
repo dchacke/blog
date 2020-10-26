@@ -14,9 +14,9 @@ Here's a conversation I had recently with a young school teacher. Let's call her
 **Dennis:** And now you're a teacher. The system defeated you :(\
 **B:** Haha now I get a taste of my own medicine!\
 **D:** I'm curious, why did you become a teacher?\
-**B:** I've always loved working with kids and just making that connection! But also I think I didn't have a great experience with some teacher (probably cause I was a terror 😂) and just thought that I could try and provide a better relationship with kids who struggle?? Like I never really liked school when I was younger haha\
+**B:** I've always loved working with kids and just making that connection! But also I think I didn't have a great experience with some teachers (probably cause I was a terror 😂) and just thought that I could try and provide a better relationship with kids who struggle?? Like I never really liked school when I was younger haha\
 **D:** What do kids mostly struggle with in school?\
-**B:** Well last years struggle mostly around behaviors. This year..looks quite different with everything being online haha.\
+**B:** Well last years struggle was mostly around behaviors. This year..looks quite different with everything being online haha.\
 I would say most of them are on grade level. Usually two or three are struggling academically\
 **D:** What kinds of behaviors do you mean?\
 **B:** Hmm one last year was more extreme, he would get physical when he got angry. But just maybe talking in class, not following direction, bullying other kids..things like that\
