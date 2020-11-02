@@ -6,15 +6,15 @@ tags:
  - philosophy
 ---
 
-There has been a cancer growing in the West, and it's called Wokeism. The idea that "social justice" trumps everything, that everything must be viewed through the lens of race. Dissenters are punished by being "canceled" and, in some cases, having their livelihoods destroyed.
+There has been a cancer growing in the West, and it's called Wokeism. The idea that "social justice" trumps everything, that everything must be viewed through the lens of race, gender, and sexual preferences. Social-justice warriors (SJWs) view society as a zero-sum game between the oppressors and the oppressed. They don't oppose oppression itself, they just want to reserve its direction. They agree with racists that the most important determinant of social interactions is (or should be) race. Dissenters are punished by being "canceled" and, in some cases, having their livelihoods destroyed.
 
-Social-justice warriors are the perpetrators of this ideological crime. Rather than seeing the West as flawed but improvable, they see it as an evil, racist empire beyond redemption, and they demand it be brought down. They consider our institutions oppressive, our freedom a farce. They demand a revolution. The violent protests and looting across America are a token of what's to come if they are left unchecked. They are a threat to our freedom.
+SJWs are the perpetrators of this ideological crime. Rather than seeing the West as flawed but improvable, they see it as an evil, racist empire beyond redemption, and they demand it be brought down. They consider our institutions oppressive, our freedom a farce. They demand a revolution. The violent protests and looting across America are a token of what's to come if they are left unchecked. They are a threat to our freedom.
 
 Unfortunately, it appears that many powerful companies have publicly spoken in support of the concept of "social justice" and associated organizations, such as "Black Lives Matter" (BLM). Tech in particular is infected. As someone working in tech, this saddens me. The industry has always been left-leaning, but it's never been as bad as it is now, with dozens of established companies and countless startups jumping on the social-justice bandwagon.
 
 We are all users of tech, and many of us work in the industry. Particularly in the San Francisco Bay Area, where the social cost for dissent is high, and the vast majority of people think alike, many are afraid to speak up. There is tremendous pressure to spread social-justice memes, or at least to acquiesce. Many companies are subjecting their employees to pseudo-scientific "sensitivity trainings" and "unconscious bias" trainings. Some investors make investment decisions based on race (and have admitted as much, such as Gumroad's founder Sahil Lavingia [here](https://twitter.com/shl/status/1291104973284159492) (archived [here](http://archive.vn/KzNXG))).
 
-If you don't recognize the industry and are afraid to speak up, know that you are not alone. If you don't want your money going to socialist organizations, I have compiled a list of companies that support BLM and/or associated groups and ideas and can point you to alternatives so that a change requires as little sacrifice as possible. You can find that list at the bottom of this article.
+If you don't recognize the industry and are afraid to speak up, know that you are not alone. If you don't want your money going to socialist organizations, I have compiled a list of companies that support BLM and/or associated groups and ideas which can point you to alternatives so that a change requires as little sacrifice as possible. You can find that list at the bottom of this article.
 
 If you are approached by recruiters for positions at such companies, you can politely but clearly turn the request down. I have turned down interview requests from several companies for potentially very lucrative roles, including Amazon. (That's not a brag; it's quite common for software engineers in the Bay Area to be approached several times a week.)
 
@@ -31,13 +31,24 @@ If you'd like to back up the above claims by sources, here are a couple of links
 - ["Black Lives Matter leader states if US 'doesn't give us what we want, then we will burn down this system'"](https://www.foxnews.com/media/black-lives-matter-leader-burn-down-system) (archived [here](http://web.archive.org/web/20201101213235/https://www.foxnews.com/media/black-lives-matter-leader-burn-down-system))
 - [List of quotes from key BLM operatives with sources](https://www.gatestoneinstitute.org/16181/black-lives-matter) (archived [here](http://web.archive.org/web/20201101213413/https://www.gatestoneinstitute.org/16181/black-lives-matter))
 
-If your employer wants you to attend a seminar about racism, refuse. If they don't accept that and you can afford it, quit. If your employer publicly endorses SJW memes, bring it up and ask them to retract it. If they don't, quit. If your colleagues casually agree with each other over lunch about how evil white and/or straight people are, disagree with them.
+If your employer wants you to attend a seminar about racism, refuse. If they don't accept that and you can afford it, quit. If your employer publicly endorses SJW memes, bring it up and ask them to post a retraction. If they don't, quit. If your colleagues casually agree with each other over lunch about how evil white and/or straight people are, disagree with them.
 
 Practicing integrity, like practicing anything else, is difficult at first, but it gets easier over time. It's something I am practicing myself and want to get better at. An essay I found very helpful is [How Does One Lead a Rational Life in an Irrational Society?](https://courses.aynrand.org/works/how-does-one-lead-a-rational-life-in-an-irrational-society/) by Ayn Rand. It makes a convincing case for the necessity of moral judgment and contains the following gem:
 
 > And then, on some gray, middle-aged morning, such a man realizes suddenly that he has betrayed all the values he had loved in his distant spring, and wonders how it happened, and slams his mind shut to the answer, by telling himself hastily that the fear he had felt in his worst, most shameful moments was right and that values have no chance in this world.
 
 If you feel uneasy about the future of tech, want to talk to someone about practicing integrity, or just want to connect, email me at [dennis.hackethal@googlemail.com](mailto:dennis.hackethal@googlemail.com)
+
+<img src="/img/photo-1591622180726-ad1a92e95c9b.jpeg" alt="Social-justice warriors">
+
+<div style="text-align: center; margin: 1em;">
+  <caption>
+    <small>
+      Social-justice warriors. Image by <a href="https://unsplash.com/photos/CzizQl0uyno">Clay Banks on Unsplash</a>
+    </small>
+  </caption>
+</div>
+
 
 ## Companies supporting SJW causes and their alternatives (whenever I could find any)
 
@@ -72,4 +83,4 @@ Nor do I think these companies have to be avoided forever. For example, if, afte
 
 I haven't made the switch for all of them, and I may never manage that, but for many, I have. I don't eat at those restaurants anymore, I don't use Google as a search engine anymore, I have moved most of my articles from Medium to this self-hosted blog, I have canceled Netflix, I have stopped using Airbnb, and I have canceled my Outsite membership.
 
-Disclaimer: my search wasn't exhaustive, and I did it a couple of weeks ago. It's possible some of the companies have since retracted their statements or posted some new ones. To find out whether a company supports, say, BLM, you can do a DuckDuckGo search for "company name BLM" or "company name black lives matter." Likewise, social media is a good candidate. [Here's](https://twitter.com/search?q=(from%3A%40WordPress)%20black%20lives%20matter&src=typed_query) an example of how I checked WordPress's Twitter history for support BLM, which, at the time of writing this article, turned up clean. [Here's](https://twitter.com/search?q=(from%3A%40podia)%20black%20lives%20matter&src=typed_query) an example of one of Gumroad's competitors, Podia, which turned up dirty. You can also check a company's Instagram account for pictures of black squares. Sometimes companies have whole arms of their business dedicated to "amplifying black voices." Sometimes it's just a tagline in their Twitter profile description. Sometimes it's the CEO speaking on behalf of the company. If the company sent you an email directly, it's easy. Etc.
+Disclaimer: my search wasn't exhaustive, and I did it a couple of weeks ago. It's possible some of the companies have since retracted their statements or posted some new ones. To find out whether a company supports, say, BLM, you can do a DuckDuckGo search for "company name BLM" or "company name black lives matter." Likewise, social media is a good candidate. [Here's](https://twitter.com/search?q=(from%3A%40WordPress)%20black%20lives%20matter&src=typed_query) an example of how I checked WordPress's Twitter history for support of BLM, which, at the time of writing this article, turned up clean. [Here's](https://twitter.com/search?q=(from%3A%40podia)%20black%20lives%20matter&src=typed_query) an example of one of Gumroad's competitors, Podia, which turned up dirty. You can also check a company's Instagram account for pictures of black squares. Sometimes companies have whole arms of their business dedicated to "amplifying black voices." Sometimes it's just a tagline in their Twitter profile description. Sometimes it's the CEO speaking on behalf of the company. If the company sent you an email directly, it's easy. Etc.
