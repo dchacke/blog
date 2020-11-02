@@ -6,7 +6,7 @@ tags:
  - philosophy
 ---
 
-There has been a cancer growing in the West, and it's called Wokeism. The idea that "social justice" trumps everything, that everything must be viewed through the lens of race, gender, and sexual preferences. Social-justice warriors (SJWs) view society as a zero-sum game between the oppressors and the oppressed. They don't oppose oppression itself, they just want to reserve its direction. They agree with racists that the most important determinant of social interactions is (or should be) race. Dissenters are punished by being "canceled" and, in some cases, having their livelihoods destroyed.
+There has been a cancer growing in the West, and it's called Wokeism. The idea that "social justice" trumps everything, that everything must be viewed through the lens of race, gender, and sexual preferences. Social-justice warriors (SJWs) view society as a zero-sum game between the oppressors and the oppressed. They don't oppose oppression itself, they just want to reverse its direction. They agree with racists that the most important determinant of social interactions is (or should be) race. Dissenters are punished by being "canceled" and, in some cases, having their livelihoods destroyed.
 
 SJWs are the perpetrators of this ideological crime. Rather than seeing the West as flawed but improvable, they see it as an evil, racist empire beyond redemption, and they demand it be brought down. They consider our institutions oppressive, our freedom a farce. They demand a revolution. The violent protests and looting across America are a token of what's to come if they are left unchecked. They are a threat to our freedom.
 
