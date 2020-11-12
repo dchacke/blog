@@ -27,7 +27,7 @@ I’m thankful that David Deutsch puts emphasis on *fun* and *interests*. They'r
 If school’s main purpose is to teach children how to neglect their own interests and instead pursue other people’s interests, that also explains where *altruism* comes from—the evil doctrine Rand so eloquently refuted and which, she says, “regards man, in effect, as a sacrificial animal,” quoting Auguste Comte, who coined the term “to mean, specifically, the placing of the interests of others above your own.” (see the YouTube video at the bottom)
 
 <h2 style="margin: 1em">
-  The true purpose of schools is to turn children—born individualists—into altruists.
+  The true purpose of schools is to turn children—born individualists—into altruists; to systematically neglect their own interests in favor of others' interests.
 </h2>
 
 It is to force children to betray their intellectual integrity. They must "sacrifice [their minds] to what *others* believe or want to be true." — Ayn Rand (though she didn't state this in the context of schooling and children in particular, but society at large)
