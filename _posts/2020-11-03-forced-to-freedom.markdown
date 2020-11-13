@@ -14,4 +14,4 @@ I can't read the whole article, because it's cut off behind a paywall. But overa
 
 However, it's rather ironic for students to be made to stand for a minute of silence in the name of freedom. Why? *Because it's not up to them whether to stand or not.* They don't even get to choose if they want to go to school at all. They are forced to go. They are not free. So, while the content of what they're learning—freedom of expression—is good, the method by which they are learning it—force—is horrific.
 
-A minute of silence means nothing if it's forced. If we're serious about freedom, we need to stop forcing kids to go to school. When they turn 18, they will indeed need to "learn to be free"—but only because they will have been subjected to force for so long they won't know what it's like to be free.
+A minute of silence means nothing if it's forced. If we're serious about freedom, we need to stop forcing kids to go to school. When they turn 18, they will indeed need to "learn to be free"—but only because they will have been subjected to force for so long [they won't know what it's like to be free]({% post_url 2020-11-11-the-true-purpose-of-schools %}).
