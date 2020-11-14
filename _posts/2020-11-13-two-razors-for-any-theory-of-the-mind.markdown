@@ -17,7 +17,7 @@ First, there's David Deutsch's test "for judging claims to have explained the na
 
 Nobody can yet program a mind, which tells us that nobody has yet understood how the mind works. Somebody will need to come up with a good explanation of that first.
 
-But until then, how can we judge whether we are even heading in the *right direction*?
+But until then, how can we judge whether we are even heading in the *right direction*? And, with so many theories of the mind being proposed all the time, most slight variations of each other, how can we evaluate them *quickly* and without becoming overwhelmed?
 
 Use the following two "razors":
 
@@ -46,6 +46,8 @@ Use the following two "razors":
     So, for the remaining \~10% that the first razor didn't cut, use this second razor and you'll find that only 10% of *that* subset make it.
 
     Deutsch explains the difference between higher and lower levels of emergence as well as the nature of abstractions in chapter 5 of BoI. He covers computational universality in chapter 6. I also write about these concepts [in my book](https://www.amazon.com/Window-Intelligence-Philosophy-Evolution-Implications-dp-1734696133/dp/1734696133).
+
+If a theory doesn't survive either one of these razors, reject it.
 
 Theories of the mind often contain many or even all of the misconceptions mentioned in these razors because they make each other more plausible. Researchers may think of the brain as a "special kind of perception machine"—the culmination of everything wrong I have just described—and then think that this will tell them something about the mind. Perhaps this is due to the misconception that a brain's information processing requires sense data as a starting point. Worse, most theories don't make any mention of *creativity*—which is the core of the mind, perhaps synonymous with it. They try to find some pre-existing algorithm for recognizing shapes (or something comparable) that could just as well be executed mindlessly. Thinking that knowledge could be created through the use of existing knowledge is the mistaken evolutionary theory of *Lamarckism*, due to the French naturalist Jean-Baptiste Lamarck.
 
