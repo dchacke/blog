@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two Razors for Any Theory of the Mind"
+title: "Two Razors to Quickly Evaluate Any Theory of the Mind"
 date: 2020-11-13 19:07:44 -0800
 tags:
  - philosophy
