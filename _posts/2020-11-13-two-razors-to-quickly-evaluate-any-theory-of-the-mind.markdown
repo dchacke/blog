@@ -55,4 +55,6 @@ Which brings me to additional razors. For example, thanks to Karl Popper, we kno
 
 Part of taking ideas seriously is to reject them when one finds that they're false. Empiricism, reductionism and violations of computational universality still spread because people don't take them seriously. Once you do, you'll have a much easier time evaluating claims about how the mind works. Many worry they're not qualified to reject theories of the mind. But you've read this article now, so you are. Feel encouraged to reject bad theories wholesale and without remorse. The more you practice using these razors, the more skilled you become at rejecting bad theories quickly. You won't need to read whole essays on perception anymore to see if anything's wrong with them. The mere premise gives it away.
 
-I hope you find these razors useful.
+To be clear, if you do find a theory that survives both razors—such as my [neo-Darwinian theory of the mind]({% post_url 2020-07-22-the-neo-darwinian-theory-of-the-mind %})—that doesn't mean it is true. Razors can only be used to *reject* theories. The theory then needs to survive to a lot more scrutiny and finally meet Deutsch's test as well.
+
+Until then, I hope you find these razors useful.
