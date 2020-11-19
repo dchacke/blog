@@ -24,7 +24,7 @@ Parents are often complicit in this. E.g., they take away things that their chil
 
 I’m thankful that David Deutsch puts emphasis on *fun* and *interests*. They're hugely underrated.
 
-If school’s main purpose is to teach children how to neglect their own interests and instead pursue other people’s interests, that also explains where *altruism* comes from—the evil doctrine Rand so eloquently refuted and which, she says, “regards man, in effect, as a sacrificial animal,” quoting Auguste Comte, who coined the term “to mean, specifically, the placing of the interests of others above your own.” (see the YouTube video at the bottom)
+If school’s main purpose is to teach children how to neglect their own interests and instead pursue other people’s interests, that also explains where *altruism* comes from—the evil doctrine Ayn Rand so eloquently refuted and which, she says, “regards man, in effect, as a sacrificial animal,” quoting Auguste Comte, who coined the term “to mean, specifically, the placing of the interests of others above your own.” (see the YouTube video at the bottom)
 
 <h2 style="margin: 1em">
   The true purpose of schools is to turn children—born individualists—into altruists; to systematically neglect their own interests in favor of others' interests.
