@@ -6,6 +6,14 @@ tags:
  - philosophy
 ---
 
+![burning book](/img/fred-kearney-enkfvvZkKv0-unsplash.jpg)
+
+<p style="text-align: center;">
+  <small>
+    Photo by <a href="https://unsplash.com/@fredasem">Fred Kearney</a> on <a href="https://unsplash.com/s/photos/book-burning">Unsplash</a>
+  </small>
+</p>
+
 *This is a guest post by [Logan Chipkin](https://twitter.com/ChipkinLogan).*
 
 There are growing rumblings about the need for a National Commission on Truth and Reconciliation for the post-Trump world. In a recent [Philadelphia Inquirer opinion piece](https://www.inquirer.com/columnists/attytood/trump-pardon-prosecute-truth-commission-election-2020-20201020.html), Will Bunch wrote that "The idea behind such panels is to hold high-profile hearings that aren't geared toward punishment but exposing the truth of what has happened---no matter how painful---so that once-divided citizens can again find a common language or grant amnesty, which will form the basis for the conversation to make sure these things never happen again."
