@@ -12,7 +12,7 @@ Some responses to the most common criticisms of and questions about libertariani
 
 There's a glossary at the bottom.
 
-<h3><a href="#who-would-build-roads" id="who-would-build-roads">Who would build roads if there was no government?</a></h3>
+<h3><a href="#who-would-build-roads" name="who-would-build-roads">Who would build roads if there was no government?</a></h3>
 
 The same people who build them now, only they'd be paid directly by those who actually use them. When the government owns the roads, all taxpayers bear the burden, even if they'd prefer not to consume the roads. This results in overconsumption of roads, since consumption has been forcibly severed from payment by the consumer. This is a special case of the more general tragedy of the commons that results from government illegitimately claiming ownership of some good or service that the government offers for public consumption.
 
