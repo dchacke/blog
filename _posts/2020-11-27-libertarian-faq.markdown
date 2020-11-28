@@ -6,7 +6,7 @@ tags:
  - philosophy
 ---
 
-*This post was co-authored by [Logan Chipkin](https://twitter.com/ChipkinLogan).*
+*This post was co-authored with [Logan Chipkin](https://twitter.com/ChipkinLogan).*
 
 Some responses to the most common criticisms of and questions about libertarianism. To reference, click on a heading. Feel free to share.
 
