@@ -160,7 +160,7 @@ No, that also isn't force. That's necessity. Necessity is a part of life and wil
 
 All purposeful action requires the employment of scarce resources that cannot be simultaneously employed to infinite ends. Therefore, a theory of who has the legal & moral right to employ which resources is required (see *Ethics of Liberty*, by Murray Rothbard)
 
-<h3><a href="#ha-explain-this" name="ha-explain-this">Explain how problem X would be solved in a free market. If you cannot, I assume that only an organization that acquires wealth through violating people's property rights is necessary to solve this problem.</a></h3>
+<h3><a href="#ha-explain-this" name="ha-explain-this">Explain how problem X would be solved in a free market. If you cannot, I assume that an organization that acquires wealth by violating people's property rights is necessary to solve this problem.</a></h3>
 
 This is a fallacy, in that an (epistemologically invalid) burden of proof is placed on the advocate of freedom. The reality is that governments are themselves composed of people—they do not have magical problem-solving powers that the rest of us do not. By this fallacious standard, one will always end up finding reasons that we 'need' government, since no one possesses the knowledge of how to solve every conceivable problem.
 
