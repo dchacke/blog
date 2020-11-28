@@ -60,7 +60,7 @@ No. A libertarian society would still punish crimes. There is a difference betwe
 
 <h3><a href="#isnt-capitalism-evil" name="isnt-capitalism-evil">Isn’t capitalism evil?</a></h3>
 
-Capitalism just means that people who want to work together voluntarily get to do so unhindered, and those who want to be left alone are, in fact, left alone. There’s nothing evil about that. What *is* evil is when a parasite like the government mooches off of that peaceful interaction.
+Capitalism just means that people who want to work together voluntarily get to do so unhindered, and that those who want to be left alone are, in fact, left alone. There’s nothing evil about that. What *is* evil is when a parasite like the government mooches off of that peaceful interaction.
 
 <h3><a href="#doesnt-capitalism-need-government-for-balance" name="doesnt-capitalism-need-government-for-balance">Doesn’t capitalism need something like a government to counteract and balance it?</a></h3>
 
