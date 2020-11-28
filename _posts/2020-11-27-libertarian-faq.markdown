@@ -190,7 +190,7 @@ Furthermore, the question of how to extinguish the State is an interesting quest
 
 And, given our best epistemological explanations, isn't it those who think coercion is morally okay and can solve problems that are being unrealistic?
 
-<h3><a href="#what-is-the-state" name="what-is-the-state">What, exactly, *is* the State?</a></h3>
+<h3><a href="#what-is-the-state" name="what-is-the-state">What, exactly, <em>is</em> the State?</a></h3>
 
 In addition to the economic explanations about the inefficient, counterproductive, and wealth-destroying actions of the State, it is worth taking seriously precisely *how* the State 1) acquires revenue and 2) enforces its edicts. Naturally, the State does not want its subjects to consider its methods at all, and, unfortunately, the State has been effective in muting criticisms against its immoral methods that, once raised, are devastating.
 
