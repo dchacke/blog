@@ -6,6 +6,8 @@ tags:
  - philosophy
 ---
 
+*This post was co-authored by [Logan Chipkin](https://twitter.com/ChipkinLogan).*
+
 Some responses to the most common criticisms of and questions about libertarianism. To reference, click on a heading. Feel free to share.
 
 <h3><a href="#who-would-build-roads" id="who-would-build-roads">Who would build roads if there was no government?</a></h3>
