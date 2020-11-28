@@ -144,7 +144,7 @@ Moreover, every product and service competes with every product and service. Sho
 
 Finally, even when a company does restrict output in order to raise prices, the fact that output is restricted implies that more resources are available for the production of some other consumer good(s).
 
-(See Murray Rothbard's [Man, Economy, and State](https://mises.org/library/man-economy-and-state-power-and-market))
+(See Murray Rothbard's [*Man, Economy, and State*](https://mises.org/library/man-economy-and-state-power-and-market))
 
 <h3><a href="#force-is-just-a-part-of-life" name="force-is-just-a-part-of-life">But force is just part of life. We're all forced to go to work. We all have to do things we don't like sometimes.</a></h3>
 
