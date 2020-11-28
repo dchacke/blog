@@ -170,7 +170,7 @@ This fallacious burden of proof on the advocate for a Stateless society is remin
 
 <h3><a href="#does-freedom-trump-other-values" name="does-freedom-trump-other-values">Libertarians value freedom over all other values. This is why I'm not a libertarian.</a></h3>
 
-There is no tradeoff between freedom and other values. On the contrary, respect for private property rights is required to pursue any other value (such as order, harmony, peace, self-actualization, community, and happiness). 
+There is no tradeoff between freedom and other values. On the contrary, respect for private-property rights is required to pursue any other value (such as order, harmony, peace, self-actualization, community, and happiness). 
 
 <h3><a href="#arent-libertarians-dogmatic" name="arent-libertarians-dogmatic">Aren't libertarians dogmatic in their advocacy for free markets?</a></h3>
 
