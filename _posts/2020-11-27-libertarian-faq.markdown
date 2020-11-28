@@ -100,7 +100,7 @@ Freedom and helping others are not mutually exclusive. And again, people are fre
 
 It's truly amazing how many people reach for the traffic thing as a "gotcha," and how reliably they do. There must be some widespread meme causing this curious phenonemon... In any case, that coercion is okay because traffic rules need to be enforced is a complete non sequitur.
 
-Yes, traffic needs rules. Whoever owns the roads can make those rules and enforce compliance in exchange for letting others use them. This goes back to property rights: he who *owns* the roads gets to make the rules. The government (sadly) owns the roads, so the governments gets to make traffic rules. But government does not own people's homes, or their bodies, or any other of their property, and yet government makes and enforces rules about what people can and cannot do with their property. That's immoral. This immorality is the fundamental gap the traffic metaphor doesn't bridge.
+Yes, traffic needs rules. Whoever owns the roads can make those rules and enforce compliance in exchange for letting others use them. This goes back to property rights: he who *owns* the roads gets to make the rules. The government (sadly) owns the roads, so the governments gets to make traffic rules. But government does not own people's homes, or their bodies, or any other of their property, and yet government makes and enforces rules about what people can and cannot do with their property. That's immoral. This immorality is the fundamental gap the traffic metaphor doesn't bridge. Traffic rules have nothing to do with coercion.
 
 <h3><a href="#what-about-externalities" name="what-about-externalities">What about externalities?</a></h3>
 
