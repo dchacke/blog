@@ -230,7 +230,7 @@ To facilitate that, we need better and less coercive politics, the rapid spreadi
 
 -   *Voluntarism/libertarianism/anarcho-capitalism* --- The true political philosophy advocating a society in which there exists no institutionalized coercion.
 
--   *Property* --- a scarce resource that can rightfully be employed by an owner. Who owns what is determined by the private property ethic (see Economics and Ethics of Private Property, by Hans-Hermann Hoppe).
+-   *Property* --- a scarce resource that can rightfully be employed by an owner. Who owns what is determined by the private property ethic (see [*The Economics and Ethics of Private Property*](https://mises.org/library/economics-and-ethics-private-property-0), by Hans-Hermann Hoppe).
 
 -   *Coercion* --- see [the TCS glossary](https://www.takingchildrenseriously.com/node/50#Coercion)
 
