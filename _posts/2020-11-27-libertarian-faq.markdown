@@ -114,7 +114,7 @@ Yes, traffic needs rules. Whoever owns the roads can make those rules and enforc
 
 4) Fourthly, externalities emerge precisely under circumstances in which privatization is *lacking*. This is either because the government coercively forbids it (consider, for example, public land), or because of technological limitations (consider the atmosphere). Nobody owns the atmosphere or the oceans, that's why they aren't well protected/preserved. Their capital value is not maintained. If somebody owned them, externalities caused by others could be reined in through voluntary collaboration, and nobody would be forced to care about the environment who doesn't.
 
-(See Hans-Hermann Hoppe's [The Economics and Ethics of Private Property](https://mises.org/library/economics-and-ethics-private-property-0))
+(See Hans-Hermann Hoppe's [*The Economics and Ethics of Private Property*](https://mises.org/library/economics-and-ethics-private-property-0))
 
 <h3><a href="#what-about-minimum-wage" name="what-about-minimum-wage">What about minimum wage?</a></h3>
 
