@@ -76,7 +76,7 @@ Moreover, governments only hinder the growth of wealth. Global poverty is at an 
 
 No more than biological evolution needs some blueprint before bringing complex, seemingly-designed structures into reality.
 
-It is impossible for a single person or company to know the problem-situation of millions or billions of other people. An economy is unplanned—objective prices emerge from the local interactions of countless individuals in various problem-situations. No one can determine what a price of some good 'should be', and when they try, shortages and inefficiencies result. Similarly, the very processes by which goods and services are created from raw materials is often global in complexity, counterintuitive, and such that no single person knows the entire process (See "[I, Pencil](https://fee.org/resources/i-pencil/)" by Leonard Read").
+It is impossible for a single person or company to know the problem-situation of millions or billions of other people. An economy is unplanned—objective prices emerge from the local interactions of countless individuals in various problem-situations. No one can determine what a price of some good 'should be', and when they try, shortages and inefficiencies result. Similarly, the very processes by which goods and services are created from raw materials is often global in complexity, counterintuitive, and such that no single person knows the entire process (See [*I, Pencil*](https://fee.org/resources/i-pencil/) by Leonard Read).
 
 <h3><a href="#protection-from-exploitation" name="protection-from-exploitation">How would you protect employees from exploitation?</a></h3>
 
@@ -120,7 +120,7 @@ For example, Employer A may wish to hire Employee B at $5/hour and anticipates a
 
 Yes, because people would be less constrained in their endeavors to become richer. That's a good thing. People are naturally different and want to pursue different goals. Making things equal is contrary to human nature and can only be done by force, expropriation, and violence.
 
-Furthermore, to those who care about inequality, governments exacerbate it: regulations serve as a barrier to entry for small businesses, rich people can afford to avoid taxes more so than poor people, inflation benefits those who are politically connected at the expense of those who are not, and lobbyists who influence the government tend to work for powerful institutions, rather than for the poor.
+Furthermore, to those who care about inequality, governments exacerbate it (in a bad, hard-to-correct kind of way): regulations serve as a barrier to entry for small businesses, rich people can afford to avoid taxes more so than poor people, inflation benefits those who are politically connected at the expense of those who are not, and lobbyists who influence the government tend to work for powerful institutions, rather than for the poor.
 
 Economic inequality, as measured in dollars per person, is as morally irrelevant as any other inequality between people. Correcting for errors, solving problems, and increasing our knowledge and wealth are not hindered by inequality of resources, preferences, or genetics.
 
