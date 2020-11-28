@@ -150,7 +150,7 @@ Finally, even when a company does restrict output in order to raise prices, the 
 
 It's important to distinguish between self-coercion and interpersonal coercion. For one thing, the former is outside the scope of a universal theory of private-property ethics, while the latter is not. 
 
-It's also not the case that "we're all forced to go to work." It is *necessary* for most people to go to work—-unless they have achieved financial independence—-but *necessity* is not *coercion*. People may self-coerce out of necessity, but that still doesn't mean that necessity is the same as coercion. The confusion between the two is widespread and necessity is often used as an excuse to inflict coercion or justify it after the fact.
+It's also not the case that "we're all forced to go to work." It is *necessary* for most people to go to work—unless they have achieved financial independence—but *necessity* is not *coercion*. People may self-coerce out of necessity, but that still doesn't mean that necessity is the same as coercion. The confusion between the two is widespread and necessity is often used as an excuse to inflict coercion or justify it after the fact.
 
 <h3><a href="#force-is-necessary" name="force-is-necessary">You are forced to eat and go to the bathroom etc, are you not?</a></h3>
 
