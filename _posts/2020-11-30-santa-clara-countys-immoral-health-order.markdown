@@ -12,7 +12,7 @@ Santa Clara County residents today received the following "emergency alert" on t
   <h3>COVID-19 cases and hospitalizations continue to rise. The Health Officer has issued updated risk reduction directives to slow the spread and protect hospital capacity, effective today. Also effective today, you must quarantine for 14 days after traveling more than 150 miles from Santa Clara County. For more information, visit <a href="sccgov.org/cv19summary">sccgov.org/cv19summary</a>.</h3>
 </blockquote>
 
-This top-down decision affects roughly two million people. There appears to be no outrage in the general populace, no unrest, no demonstrations. People are just taking it.
+This top-down decision by the ominous "Health Officer" affects roughly two million people. There appears to be no outrage in the general populace, no unrest, no demonstrations. People are just taking it.
 From the linked order summary:
 
 > Stores and other facilities open to the public will be limited to 10% capacity indoors.
