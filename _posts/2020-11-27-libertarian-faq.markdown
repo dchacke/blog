@@ -218,7 +218,7 @@ Libertarianism is the only consistent and morally sound political and economic p
 
 <h3><a href="#how-could-one-change-your-mind" name="how-could-one-change-your-mind">How could one change your mind?</a></h3>
 
-If you can present a *single instance* of a problem that *can only* be solved using the initiation of coercion and not the creation of knowledge, then we will consider libertarianism refuted.
+If you can present a *single instance* of a problem that *can only* be solved using the initiation of coercion rather than the creation of knowledge, then we will consider libertarianism refuted.
 
 How could one change your mind about coercion being a necessary part of society?
 
