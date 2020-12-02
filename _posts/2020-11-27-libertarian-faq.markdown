@@ -216,6 +216,12 @@ Many things statists allegedly don't want are exacerbated by the state (see abov
 
 Libertarianism is the only consistent and morally sound political and economic philosophy. It treats people with dignity. And, seeing how politics and economics are downstream of epistemology, libertarianism is the only political philosophy consistent with the best epistemology we have: Popperian epistemology.
 
+<h3><a href="#how-could-one-change-your-mind" name="how-could-one-change-your-mind">How could one change your mind?</a></h3>
+
+If you can present a *single instance* of a problem that *can only* be solved using the initiation of coercion and not the creation of knowledge, then we will consider libertarianism refuted.
+
+How could one change your mind about coercion being a necessary part of society?
+
 <h3><a href="#ok-im-sold-what-next" name="ok-im-sold-what-next">OK I’m sold. But surely we can’t get rid of the government over night?</a></h3>
 
 That is correct. The Popperian approach is to recognize that the government contains a lot of valuable knowledge, and that revolution should be avoided in favor of piecemeal changes.
