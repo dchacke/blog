@@ -139,7 +139,7 @@ The highlighted part-sentences correspond exactly to the ones in the English ori
 There *is* a loophole which allows the translator to use Indikativ after all: the word "dass" ("that"):
 
 <blockquote>
-  Die Vorstellung, dass <span class="highlight">die Naturwissenschaften im Wesentlichen reduktiv und vorhersagend <strong>sind</strong></span>, <strong>hat</strong> zu viel Schaden geführt. Denn wenn der Wissenschaftler <strong>glaubt</strong>, dass <span class="highlight">er nur vorhersagen <strong>darf</strong></span>, dann <strong>geht</strong> ihm oft das Wichtigste verloren: Erklärungen.
+  Die Vorstellung, dass <span class="highlight">die Naturwissenschaften ausschließlich vorhersagend <strong>sind</strong></span>, <strong>hat</strong> zu viel Schaden geführt. Denn wenn der Wissenschaftler <strong>glaubt</strong>, dass <span class="highlight">er nur vorhersagen <strong>darf</strong></span>, dann <strong>geht</strong> ihm oft das Wichtigste verloren: Erklärungen.
 </blockquote>
 
 Using "dass" works well and is grammatically valid. But without Konjunktiv 1, we're missing a key feature: grammatically explicit information about the author's intention. Also, using "dass" every time gets repetitive quickly; it's best to mix both styles. Luckily, it can be combined with the Konjunktiv 1: "dass die Naturwissenschaften ... seien."
