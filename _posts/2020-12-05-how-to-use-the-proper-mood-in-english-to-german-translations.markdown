@@ -6,6 +6,12 @@ tags:
  - language
 ---
 
+<style type="text/css">
+  .highlight {
+    background-color: #ffeb3b;
+  }
+</style>
+
 *This article assumes a basic command of German.*
 
 There is a problem when translating an English text into German: that of determining exactly when the author is paraphrasing someone else or distancing himself from an idea or concept. English and German use different moods for that.
