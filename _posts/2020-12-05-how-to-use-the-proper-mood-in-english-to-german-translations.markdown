@@ -6,12 +6,6 @@ tags:
  - language
 ---
 
-<style type="text/css">
-  .highlight {
-    background-color: #ffeb3b;
-  }
-</style>
-
 *This article assumes a basic command of German.*
 
 There is a problem when translating an English text into German: that of determining exactly when the author is paraphrasing someone else or distancing himself from an idea or concept. English and German use different moods for that.
@@ -123,7 +117,7 @@ Since English does not have a Konjunktiv 1 mood, accurate German-to-English tran
 Imagine you are tasked with translating the following, made-up sentences:
 
 <blockquote>
-  The idea that <span class="highlight">the natural sciences <strong>are</strong> only predictive</span> <strong>has</strong> caused much damage. Because if the scientist <strong>believes</strong> that <span class="highlight">he <strong>must</strong> only predict</span>, he <strong>loses</strong> the most important element: explanations.
+  The idea that <mark>the natural sciences <strong>are</strong> only predictive</mark> <strong>has</strong> caused much damage. Because if the scientist <strong>believes</strong> that <mark>he <strong>must</strong> only predict</mark>, he <strong>loses</strong> the most important element: explanations.
 </blockquote>
 
 All verbs are in the indicative mood. We can tell that the author is partially relaying information he disagrees with—he is not advocating for purely predictive but explanatory science—but it is on us to tell from the sentence structure and from certain cues with which information he disagrees and with which he agrees. I have highlighted those part-sentences that the author wants to distance himself from. Note how granular and interposed the shift can be.
@@ -131,7 +125,7 @@ All verbs are in the indicative mood. We can tell that the author is partially r
 The German translation makes the distinction explicit:
 
 <blockquote>
-  Die Vorstellung, <span class="highlight">die Naturwissenschaften <strong>seien</strong> ausschließlich vorhersagend</span>, <strong>hat</strong> zu viel Schaden geführt. Denn wenn der Wissenschaftler <strong>glaubt</strong>, <span class="highlight">er <strong>dürfe</strong> nur vorhersagen</span>, dann <strong>geht</strong> ihm oft das Wichtigste verloren: Erklärungen.
+  Die Vorstellung, <mark>die Naturwissenschaften <strong>seien</strong> ausschließlich vorhersagend</mark>, <strong>hat</strong> zu viel Schaden geführt. Denn wenn der Wissenschaftler <strong>glaubt</strong>, <mark>er <strong>dürfe</strong> nur vorhersagen</mark>, dann <strong>geht</strong> ihm oft das Wichtigste verloren: Erklärungen.
 </blockquote>
 
 The highlighted part-sentences correspond exactly to the ones in the English original, but they use Konjunktiv 1.
@@ -139,7 +133,7 @@ The highlighted part-sentences correspond exactly to the ones in the English ori
 There *is* a loophole which allows the translator to use Indikativ after all: the word "dass" ("that"):
 
 <blockquote>
-  Die Vorstellung, dass <span class="highlight">die Naturwissenschaften ausschließlich vorhersagend <strong>sind</strong></span>, <strong>hat</strong> zu viel Schaden geführt. Denn wenn der Wissenschaftler <strong>glaubt</strong>, dass <span class="highlight">er nur vorhersagen <strong>darf</strong></span>, dann <strong>geht</strong> ihm oft das Wichtigste verloren: Erklärungen.
+  Die Vorstellung, dass <mark>die Naturwissenschaften ausschließlich vorhersagend <strong>sind</strong></mark>, <strong>hat</strong> zu viel Schaden geführt. Denn wenn der Wissenschaftler <strong>glaubt</strong>, dass <mark>er nur vorhersagen <strong>darf</strong></mark>, dann <strong>geht</strong> ihm oft das Wichtigste verloren: Erklärungen.
 </blockquote>
 
 Using "dass" works well and is grammatically valid. But without Konjunktiv 1, we're missing a key feature: grammatically explicit information about the author's intention. Also, using "dass" every time gets repetitive quickly; it's best to mix both styles. Luckily, it can be combined with the Konjunktiv 1: "dass die Naturwissenschaften ... seien."
