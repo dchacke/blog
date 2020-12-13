@@ -6,9 +6,11 @@ tags:
  - programming
 ---
 
-People sometimes struggle with the `reduce` function. Perhaps one reason is that it's incredibly powerful and versatile and so it isn't always clear why or when one would use it.
+In [my book](https://www.amazon.com/Window-Intelligence-Philosophy-Evolution-Implications-dp-1734696133/dp/1734696133), I argue that all people are software engineers. Even if it's not their profession, they program all the time—in their heads. Here's an example of what I mean.
 
-What may surprise you is that you already have inexplicit knowledge (cf. David Deutsch's *The Beginning of Infinity* ch. 14) of how to use `reduce`—because you use it all the time, in your head.
+Programmers sometimes struggle with the `reduce` function. Perhaps one reason is that it's incredibly powerful and versatile, so it isn't always clear why or when one would use it.
+
+What may surprise you is that you already have inexplicit knowledge (cf. David Deutsch's *The Beginning of Infinity* ch. 14) of how to use `reduce`—because you use it all the time, in your head, even if you have never written a line of code.
 
 Imagine you are hungry but don't know what to eat. You open your pantry and scan various items. You see:
 
