@@ -41,3 +41,9 @@ You do this every time you decide what to eat from a given set of foods, or what
 That does *not* mean that human decision making can be reduced (no pun intended) to the simple algorithm above, because humans do much more: they create the `do-i-feel-like-eating?` criterion and the options in the first place, they can interrupt the above algorithm and change the options by removing some or adding new ones and then run the algorithm again—especially if they find that the algorithm returns `nil`, meaning they haven't found anything they like yet—they can decide to focus on another problem altogether, and so on. But once they have (tentatively) settled on a set of options and a criterion, they typically use something like the above algorithm to make a decision.
 
 You knew how `reduce` worked all along. Much of programming is about making what you already know explicit.
+
+#### Edit (2020-12-17)
+
+Another example of using reduce in one's head is when you're prompted to listen to options on the phone. You know, the thing where an automated voice says "please listen to the following options..." and then you make a selection by pressing a number.
+
+The voice helps you iterate over the different options, and as you listen you remember the option that best fits your intent so far, which is the current "reduced" value at every stage.
