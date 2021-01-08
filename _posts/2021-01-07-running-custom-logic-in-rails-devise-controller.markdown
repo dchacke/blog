@@ -36,3 +36,5 @@ Unfortunately, the block is invoked *after* the resource is saved to the databas
 The call to `super` works because the `RegistrationsController` inherits from `Devise::RegistrationsController` as defined [here](https://github.com/heartcombo/devise/blob/e3a00b27d19ba995891d7dd92394fe2900a789c2/app/controllers/devise/registrations_controller.rb). `super` will call `Devise::RegistrationsController#create` and pass it the block, where it then gets invoked with the resource.
 
 As you can see in the source code, Devise offers support for blocks in `#new`, `#update`, and `#destroy` as well.
+
+Unless you require functionality that's only available in controllers (such as cookies, as I mentioned), I recommend using model callbacks instead. But if you do need to do your magic in controllers, this approach should work.
